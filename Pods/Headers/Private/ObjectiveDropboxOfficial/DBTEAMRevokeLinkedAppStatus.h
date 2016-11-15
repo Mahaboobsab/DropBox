@@ -1,0 +1,5 @@
+XSym
+0127
+db47c6d901fa96633b907603155bd244
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMRevokeLinkedAppStatus.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

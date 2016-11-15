@@ -1,0 +1,5 @@
+XSym
+0115
+d0f473577fff0aaf6fca14490ecce618
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Auth/DBAUTHAuthError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

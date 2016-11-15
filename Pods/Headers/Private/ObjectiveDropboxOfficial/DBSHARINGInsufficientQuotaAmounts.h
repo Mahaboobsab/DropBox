@@ -1,0 +1,5 @@
+XSym
+0136
+f299a6374cb1fe778169ab7933f923b3
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGInsufficientQuotaAmounts.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

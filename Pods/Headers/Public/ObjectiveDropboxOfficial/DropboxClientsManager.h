@@ -1,0 +1,5 @@
+XSym
+0105
+4c2414c0c42331562dde18ca710b363b
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/DropboxClientsManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0143
+e4d552267d96ec36e4303b186b44213e
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Properties/DBPROPERTIESGetPropertyTemplateResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

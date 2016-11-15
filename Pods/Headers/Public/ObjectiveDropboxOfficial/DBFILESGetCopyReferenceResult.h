@@ -1,0 +1,5 @@
+XSym
+0130
+589a4b75f88dc4f230b1415ceaa67be1
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESGetCopyReferenceResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

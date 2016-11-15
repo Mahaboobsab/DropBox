@@ -1,0 +1,5 @@
+XSym
+0122
+ff531e934dc5341d80c8ffb530dad34f
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMMemberLinkedApps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

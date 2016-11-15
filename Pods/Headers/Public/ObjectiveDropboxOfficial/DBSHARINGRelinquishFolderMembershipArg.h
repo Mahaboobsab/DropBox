@@ -1,0 +1,5 @@
+XSym
+0141
+22b4e0671add5f3a7ae080526d59d5ca
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGRelinquishFolderMembershipArg.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

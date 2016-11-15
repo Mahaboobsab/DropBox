@@ -1,0 +1,5 @@
+XSym
+0135
+206e1178f8aaaa9b514766d3be00c12c
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGMemberAccessLevelResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

@@ -1,0 +1,5 @@
+XSym
+0122
+46d723fc4ddb261237eb8d7656a9386c
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESGpsCoordinates.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

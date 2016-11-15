@@ -1,0 +1,5 @@
+XSym
+0126
+97df0b6a13bea0bf1db6c279dd5d6728
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMDesktopClientSession.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0123
+6dfbcf93a4a972de80822f5d23778c6b
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMListTeamAppsError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

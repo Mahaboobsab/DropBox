@@ -1,0 +1,5 @@
+XSym
+0130
+1b7851d76a9cc7c2f50f61afe92ce617
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGUnshareFolderError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

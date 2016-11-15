@@ -1,0 +1,5 @@
+XSym
+0132
+5059519c8e7dff790fc7e29412704a65
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGShareFolderJobStatus.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

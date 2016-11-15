@@ -1,0 +1,5 @@
+XSym
+0146
+8656316c6290e8ffbbeced8ddf1c232e
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/TeamPolicies/DBTEAMPOLICIESSharedFolderMemberPolicy.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

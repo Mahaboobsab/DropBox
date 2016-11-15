@@ -1,0 +1,5 @@
+XSym
+0128
+16aa3c295eed3c536401d4015ddb4e46
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Users/DBUSERSGetAccountBatchError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

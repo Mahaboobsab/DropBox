@@ -1,0 +1,5 @@
+XSym
+0120
+966c5932b414d93cc7e038a7c6270bb3
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Users/DBUSERSBasicAccount.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,5 @@
+XSym
+0136
+bda81f3855564389b21754e2022ac354
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGGetSharedLinkMetadataArg.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

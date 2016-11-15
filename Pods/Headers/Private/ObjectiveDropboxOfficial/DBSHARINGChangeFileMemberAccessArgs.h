@@ -1,0 +1,5 @@
+XSym
+0138
+1a2c596fe797e46a829183100c2466c1
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGChangeFileMemberAccessArgs.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

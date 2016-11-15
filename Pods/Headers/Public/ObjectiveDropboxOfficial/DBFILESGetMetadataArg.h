@@ -1,0 +1,5 @@
+XSym
+0122
+4c3a98ae4666efae2eb35ed637d7052a
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESGetMetadataArg.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

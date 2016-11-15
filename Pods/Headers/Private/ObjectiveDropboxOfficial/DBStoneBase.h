@@ -1,0 +1,5 @@
+XSym
+0105
+17206b688efe6ac2602a811db7aeec92
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/Resources/DBStoneBase.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

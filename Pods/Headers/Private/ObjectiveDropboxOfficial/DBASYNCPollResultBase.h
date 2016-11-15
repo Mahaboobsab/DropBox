@@ -1,0 +1,5 @@
+XSym
+0122
+8461f8f8bd9737063af282b41962bd91
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Async/DBASYNCPollResultBase.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

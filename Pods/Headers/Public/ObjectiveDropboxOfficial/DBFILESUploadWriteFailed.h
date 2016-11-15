@@ -1,0 +1,5 @@
+XSym
+0125
+0f32ef8a2c17bc075269e6dda57f5695
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESUploadWriteFailed.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

@@ -1,0 +1,5 @@
+XSym
+0135
+3c3e45a4f5b5445b5ab85db62ae5f49f
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGUpdateFolderPolicyError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

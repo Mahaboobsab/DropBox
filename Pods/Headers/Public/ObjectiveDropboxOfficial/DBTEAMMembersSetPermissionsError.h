@@ -1,0 +1,5 @@
+XSym
+0132
+806fbd8b093f6d7b0b2129ea481bc799
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMMembersSetPermissionsError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

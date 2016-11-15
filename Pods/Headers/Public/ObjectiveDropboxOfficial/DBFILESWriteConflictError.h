@@ -1,0 +1,5 @@
+XSym
+0126
+03f8b87b4fc985436bc9d816a92974dc
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESWriteConflictError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0121
+e9d4c5a4271500197ef36604140c8d38
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESThumbnailSize.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

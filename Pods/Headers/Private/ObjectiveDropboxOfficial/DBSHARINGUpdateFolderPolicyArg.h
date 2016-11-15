@@ -1,0 +1,5 @@
+XSym
+0133
+f8f09b85a2272d69f4f07745cc3cb25d
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGUpdateFolderPolicyArg.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0122
+2412c90ab9db2579e7342b43e7a9491e
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMTeamMemberStatus.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

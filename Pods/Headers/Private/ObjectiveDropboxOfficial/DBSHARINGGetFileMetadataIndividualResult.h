@@ -1,0 +1,5 @@
+XSym
+0143
+af0066b3fd428c76600e4ffb454de054
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGGetFileMetadataIndividualResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

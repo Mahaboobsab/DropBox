@@ -1,0 +1,5 @@
+XSym
+0131
+1795ff9a7e7e257ac6198c9897afd0cc
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Properties/DBPROPERTIESPropertyGroup.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

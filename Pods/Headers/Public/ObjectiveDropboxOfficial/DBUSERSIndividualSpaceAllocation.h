@@ -1,0 +1,5 @@
+XSym
+0133
+6546505d0d19414bd06c1c34e397050e
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Users/DBUSERSIndividualSpaceAllocation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

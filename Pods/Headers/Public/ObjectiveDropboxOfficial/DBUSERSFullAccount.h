@@ -1,0 +1,5 @@
+XSym
+0119
+6f5d4e5e82c534e62be50d1852bcdb61
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Users/DBUSERSFullAccount.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

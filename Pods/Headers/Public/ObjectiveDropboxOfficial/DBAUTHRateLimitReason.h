@@ -1,0 +1,5 @@
+XSym
+0121
+20a02ad81f9b7c1f4a94f8e85cb8ca2c
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Auth/DBAUTHRateLimitReason.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

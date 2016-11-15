@@ -1,0 +1,5 @@
+XSym
+0132
+f6fd5e92b776150cb3f1b4bc044a66bc
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMRevokeLinkedAppBatchResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

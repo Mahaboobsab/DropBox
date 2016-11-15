@@ -1,0 +1,5 @@
+XSym
+0139
+bcafc89a43c536f6ebfb875cbb7e0f38
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESListFolderGetLatestCursorResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

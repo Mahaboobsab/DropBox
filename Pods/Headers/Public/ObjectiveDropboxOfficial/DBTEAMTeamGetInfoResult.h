@@ -1,0 +1,5 @@
+XSym
+0123
+344070b4f52cd8aa8927e47362c34b66
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMTeamGetInfoResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

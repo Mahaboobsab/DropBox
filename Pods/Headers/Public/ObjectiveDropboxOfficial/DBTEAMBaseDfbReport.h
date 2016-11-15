@@ -1,0 +1,5 @@
+XSym
+0119
+6589bc02532ed67fa29c1ee6ee1ab7d3
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMBaseDfbReport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

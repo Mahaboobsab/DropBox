@@ -1,0 +1,5 @@
+XSym
+0127
+8ff1303a4c8632fc9e7950256c305563
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGAclUpdatePolicy.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

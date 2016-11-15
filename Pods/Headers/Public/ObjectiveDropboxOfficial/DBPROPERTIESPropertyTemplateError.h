@@ -1,0 +1,5 @@
+XSym
+0139
+44ada8bdd9151b9156a77eacf2a5a3dc
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Properties/DBPROPERTIESPropertyTemplateError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

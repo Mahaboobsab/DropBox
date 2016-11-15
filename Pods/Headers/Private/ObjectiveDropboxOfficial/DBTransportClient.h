@@ -1,0 +1,5 @@
+XSym
+0112
+b9c7e7db6d77f517c31488f1a5a66608
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/Networking/DBTransportClient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

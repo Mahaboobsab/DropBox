@@ -1,0 +1,5 @@
+XSym
+0101
+2c23e91b230b2b5d0be1a498a12450d8
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/DropboxTeamClient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,5 @@
+XSym
+0121
+739ec14ec0078ff9bd3173bbbccf7f2a
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESDownloadError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

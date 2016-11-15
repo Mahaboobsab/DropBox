@@ -1,0 +1,5 @@
+XSym
+0144
+a6e5d55887753d13ab1aa18c0638d297
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/TeamPolicies/DBTEAMPOLICIESSharedFolderJoinPolicy.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

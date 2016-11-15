@@ -1,0 +1,5 @@
+XSym
+0116
+b51d9f804c0eccd3547850d3399c44f7
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/Resources/DBSerializableProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

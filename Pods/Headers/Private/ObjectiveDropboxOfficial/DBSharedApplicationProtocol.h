@@ -1,0 +1,5 @@
+XSym
+0117
+65fa36113d3ac791ebad2216ba3ec81d
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/OAuth/DBSharedApplicationProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

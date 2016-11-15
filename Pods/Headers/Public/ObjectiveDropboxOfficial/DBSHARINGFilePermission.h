@@ -1,0 +1,5 @@
+XSym
+0126
+63e84b50c3941a7c5f3eccb22ef9f6d9
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGFilePermission.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

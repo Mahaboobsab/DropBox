@@ -1,0 +1,5 @@
+XSym
+0131
+0dc11b3ad076fde6e6a89bfedd82e0bd
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGTransferFolderError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

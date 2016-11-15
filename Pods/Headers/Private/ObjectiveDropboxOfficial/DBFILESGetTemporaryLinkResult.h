@@ -1,0 +1,5 @@
+XSym
+0130
+5df8b82f1f4adb2d5f3c8838c7992195
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESGetTemporaryLinkResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

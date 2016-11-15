@@ -1,0 +1,5 @@
+XSym
+0125
+e0183a8ee8e6c02c0a8a9e218adf81af
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESCreateFolderError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

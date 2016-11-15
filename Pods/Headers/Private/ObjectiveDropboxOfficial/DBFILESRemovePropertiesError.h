@@ -1,0 +1,5 @@
+XSym
+0129
+c4ccffd6982f1562a58657a91377a4ee
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESRemovePropertiesError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

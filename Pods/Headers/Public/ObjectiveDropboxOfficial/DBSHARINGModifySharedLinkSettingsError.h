@@ -1,0 +1,5 @@
+XSym
+0141
+c718d6744fbbcbb9ede94b77cd43fbbf
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGModifySharedLinkSettingsError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

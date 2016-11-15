@@ -1,0 +1,5 @@
+XSym
+0132
+701860c725e35b94898a718b4a182bb5
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESCommitInfoWithProperties.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

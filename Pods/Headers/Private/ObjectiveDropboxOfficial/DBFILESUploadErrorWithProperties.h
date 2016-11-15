@@ -1,0 +1,5 @@
+XSym
+0133
+b11bc9b48754d2d128ca09a17a62fe2a
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESUploadErrorWithProperties.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

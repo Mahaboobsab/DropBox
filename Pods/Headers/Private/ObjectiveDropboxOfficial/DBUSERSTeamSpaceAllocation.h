@@ -1,0 +1,5 @@
+XSym
+0127
+86a19cc247378dc65d3973d2f5746eec
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Users/DBUSERSTeamSpaceAllocation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

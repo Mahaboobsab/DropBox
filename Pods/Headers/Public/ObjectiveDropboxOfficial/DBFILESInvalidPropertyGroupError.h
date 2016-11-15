@@ -1,0 +1,5 @@
+XSym
+0133
+635f6e0bc58cfff7390594cbe89471ce
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESInvalidPropertyGroupError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

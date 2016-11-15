@@ -1,0 +1,5 @@
+XSym
+0122
+af6eb2cfbbfa203f8968a29fb459a3bc
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESThumbnailError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

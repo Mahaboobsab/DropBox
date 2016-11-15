@@ -1,0 +1,5 @@
+XSym
+0130
+7d4430bd1652fe58d7d2b01d0b745ea9
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMGroupMembersChangeResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

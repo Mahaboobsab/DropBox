@@ -1,0 +1,5 @@
+XSym
+0118
+d116a0cef69e6a9e0f2f547bddeb8ef1
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESDimensions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

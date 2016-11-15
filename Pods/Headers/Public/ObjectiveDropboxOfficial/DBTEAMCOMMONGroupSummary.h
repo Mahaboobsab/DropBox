@@ -1,0 +1,5 @@
+XSym
+0130
+a1fe28a14f0c7dbb61040b69d2aeb932
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/TeamCommon/DBTEAMCOMMONGroupSummary.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

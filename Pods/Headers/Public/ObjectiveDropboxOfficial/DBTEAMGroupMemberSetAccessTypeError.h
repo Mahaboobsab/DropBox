@@ -1,0 +1,5 @@
+XSym
+0135
+159a46c8f4d09dceebd49f05ab2ca98b
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMGroupMemberSetAccessTypeError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

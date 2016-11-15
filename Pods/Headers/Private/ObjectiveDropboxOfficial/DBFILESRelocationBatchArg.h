@@ -1,0 +1,5 @@
+XSym
+0126
+a4640ce93bb207df6e4ab154310a5eff
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESRelocationBatchArg.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

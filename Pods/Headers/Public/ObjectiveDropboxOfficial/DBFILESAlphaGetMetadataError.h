@@ -1,0 +1,5 @@
+XSym
+0129
+ac245afa5f90675f3e27ef170ddd757d
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESAlphaGetMetadataError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

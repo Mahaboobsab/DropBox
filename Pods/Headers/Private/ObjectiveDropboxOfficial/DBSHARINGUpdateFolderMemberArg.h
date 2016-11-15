@@ -1,0 +1,5 @@
+XSym
+0133
+4b12fe3730b3abd8d05fc1a782be1f88
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGUpdateFolderMemberArg.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

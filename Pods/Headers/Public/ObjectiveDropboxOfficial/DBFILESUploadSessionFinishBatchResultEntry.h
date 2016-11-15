@@ -1,0 +1,5 @@
+XSym
+0143
+48a68baa115b06ae6ca185aa22a494a6
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESUploadSessionFinishBatchResultEntry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

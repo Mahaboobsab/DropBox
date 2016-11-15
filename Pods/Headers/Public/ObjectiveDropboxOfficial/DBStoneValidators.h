@@ -1,0 +1,5 @@
+XSym
+0111
+c01439b44fb8cec06e7b13c89c882827
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/Resources/DBStoneValidators.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

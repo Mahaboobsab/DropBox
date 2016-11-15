@@ -1,0 +1,5 @@
+XSym
+0108
+b5ff7360474982c3470c1a6ccc8fefcb
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/Networking/DBSessionData.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

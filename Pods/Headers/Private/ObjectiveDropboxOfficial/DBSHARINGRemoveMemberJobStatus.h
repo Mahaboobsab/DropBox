@@ -1,0 +1,5 @@
+XSym
+0133
+b040bf00e87d9bbc5eff5ccdfd8c5f0d
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGRemoveMemberJobStatus.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

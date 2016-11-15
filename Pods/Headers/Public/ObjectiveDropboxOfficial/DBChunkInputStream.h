@@ -1,0 +1,5 @@
+XSym
+0112
+35dafc2ec93cc1a98ba2189089eff235
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/Resources/DBChunkInputStream.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

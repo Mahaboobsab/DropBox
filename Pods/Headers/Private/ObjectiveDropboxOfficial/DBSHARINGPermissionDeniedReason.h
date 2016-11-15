@@ -1,0 +1,5 @@
+XSym
+0134
+aac03acbabf73b2a37953477d0884784
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Sharing/DBSHARINGPermissionDeniedReason.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

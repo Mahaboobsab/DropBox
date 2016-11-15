@@ -1,0 +1,5 @@
+XSym
+0121
+0991552fd388ef60f4d2b7dc5cf6e9d1
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Team/DBTEAMDesktopPlatform.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0127
+254cbe84c5407f5b3dc8006d980d4bf6
+../../../ObjectiveDropboxOfficial/Source/ObjectiveDropboxOfficial/PlatformNeutral/ApiObjects/Files/DBFILESPropertyGroupUpdate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
